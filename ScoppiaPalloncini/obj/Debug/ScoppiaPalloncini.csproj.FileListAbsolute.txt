@@ -1,0 +1,13 @@
+C:\Users\Aless\source\repos\ScoppiaPalloncini\ScoppiaPalloncini\bin\Debug\ScoppiaPalloncini.exe.config
+C:\Users\Aless\source\repos\ScoppiaPalloncini\ScoppiaPalloncini\bin\Debug\ScoppiaPalloncini.exe
+C:\Users\Aless\source\repos\ScoppiaPalloncini\ScoppiaPalloncini\bin\Debug\ScoppiaPalloncini.pdb
+C:\Users\Aless\source\repos\ScoppiaPalloncini\ScoppiaPalloncini\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\Aless\source\repos\ScoppiaPalloncini\ScoppiaPalloncini\bin\Debug\it\Microsoft.VisualBasic.PowerPacks.resources.dll
+C:\Users\Aless\source\repos\ScoppiaPalloncini\ScoppiaPalloncini\obj\Debug\ScoppiaPalloncini.csprojAssemblyReference.cache
+C:\Users\Aless\source\repos\ScoppiaPalloncini\ScoppiaPalloncini\obj\Debug\ScoppiaPalloncini.Properties.Resources.resources
+C:\Users\Aless\source\repos\ScoppiaPalloncini\ScoppiaPalloncini\obj\Debug\ScoppiaPalloncini.csproj.GenerateResource.cache
+C:\Users\Aless\source\repos\ScoppiaPalloncini\ScoppiaPalloncini\obj\Debug\ScoppiaPalloncini.csproj.CoreCompileInputs.cache
+C:\Users\Aless\source\repos\ScoppiaPalloncini\ScoppiaPalloncini\obj\Debug\ScoppiaPalloncini.csproj.CopyComplete
+C:\Users\Aless\source\repos\ScoppiaPalloncini\ScoppiaPalloncini\obj\Debug\ScoppiaPalloncini.exe
+C:\Users\Aless\source\repos\ScoppiaPalloncini\ScoppiaPalloncini\obj\Debug\ScoppiaPalloncini.pdb
+C:\Users\Aless\source\repos\ScoppiaPalloncini\ScoppiaPalloncini\obj\Debug\ScoppiaPalloncini.schermata.resources
